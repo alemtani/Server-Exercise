@@ -1,0 +1,10 @@
+com\exercise\guildedrose\WebSecurityConfig.class
+com\exercise\guildedrose\ItemNotFoundAdvice.class
+com\exercise\guildedrose\LoadDatabase.class
+com\exercise\guildedrose\Item.class
+com\exercise\guildedrose\ItemNotFoundException.class
+com\exercise\guildedrose\HomeController.class
+com\exercise\guildedrose\ItemModelAssembler.class
+com\exercise\guildedrose\GuildedRoseApplication.class
+com\exercise\guildedrose\ItemController.class
+com\exercise\guildedrose\ItemRepository.class
